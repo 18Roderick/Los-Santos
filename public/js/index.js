@@ -7,3 +7,15 @@ function myFunction() {
       x.className = "topnav";
   }
 }
+
+$(()=>{
+
+});
+
+function mostrar(target){
+    
+    console.log(target);
+    $(target).slideToggle(300, () => {
+        
+    });
+}
