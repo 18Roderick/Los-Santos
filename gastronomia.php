@@ -10,7 +10,7 @@
 <?php     include_once './header.php';  ?>
 
 <br><br>
-<div class="container-fluid">
+<div class="container">
   <div class="row">
   <div class="card col-sm-md-12 col-xl-6 col-md-6"> 
       <img clas="image-fluid" src="./public/images/Pesada-nance.png" alt="pesada de nance">
