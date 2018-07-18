@@ -61,6 +61,7 @@
       </div>
           
         ');
+        print('<a href="./historia.php" class="btn btn-primary">volver</a>');
         break;
 
       case 2:
@@ -91,30 +92,11 @@
            porque su fundación se realizó el 1 de noviembre de 1569, día de la fiesta de 
            Todos los Santos, celebración católica instituida en honor de todos los santos.
   
-          <br>
-          <b>Independencia</b>
-          <br>
-          En 1821, la Villa de Los Santos se distinguió por sus esfuerzos a favor de 
-          la independencia de Panamá de España. El 10 de noviembre el pueblo se amotinó,
-          y el Cabildo declaró su resolución de no continuar más bajo el poder español. 
-          Este suceso se conoce con el nombre de El Grito de Los Santos. Con la indepen­dencia 
-          de Panamá y su posterior adhesión a la Gran Colombia, la jurisdicción adminis­trativa 
-          de la provincia se dividió en las provincias de Veraguas y Panamá.
-          <br>
-          Tras la disolución de la Gran Colombia, surgieron dos nuevos países
-          denominados Estado de Venezuela y Estado del Ecuador. Las provincias
-          que ocupaban la parte central de la desintegrada Gran Colombia,
-          que en ese entonces comprendía los antiguos departamentos de Boyacá,
-          Cauca, Cundinamarca, Magdalena e Istmo (Panamá) decidieron formar 
-          un nuevo Estado, denominado República de la Nueva Granada. En 1855, 
-          Panamá, pasó a convertirse en Estado Federal de Panamá, 
-          constituido por las provincias de Panamá, Azuero, Veraguas y Chiriquí.
-           A través de la Ley de 12 de septiembre de 1855, se instauró el departamento 
-           de Los Santos.
   
         </p>
       </div>
         ');
+        print('<a href="./historia.php" class="btn btn-primary">volver</a>');
         break;
       
       case 3:
@@ -158,47 +140,93 @@
       </div>
 
         ');
+        print('<a href="./historia.php" class="btn btn-primary">volver</a>');
         break;
       
       case 4:
-        # code...
+      print('
+      <div class="col-sm-12 etapas">
+
+      <h4 ><b>
+      Independencia
+      </b></h4>
+
+      <p class="texto " id="colonial">
+
+        <br>
+        En 1821, la Villa de Los Santos se distinguió por sus esfuerzos a favor de 
+        la independencia de Panamá de España. El 10 de noviembre el pueblo se amotinó,
+        y el Cabildo declaró su resolución de no continuar más bajo el poder español. 
+        Este suceso se conoce con el nombre de El Grito de Los Santos. Con la indepen­dencia 
+        de Panamá y su posterior adhesión a la Gran Colombia, la jurisdicción adminis­trativa 
+        de la provincia se dividió en las provincias de Veraguas y Panamá.
+        <br>
+        Tras la disolución de la Gran Colombia, surgieron dos nuevos países
+        denominados Estado de Venezuela y Estado del Ecuador. Las provincias
+        que ocupaban la parte central de la desintegrada Gran Colombia,
+        que en ese entonces comprendía los antiguos departamentos de Boyacá,
+        Cauca, Cundinamarca, Magdalena e Istmo (Panamá) decidieron formar 
+        un nuevo Estado, denominado República de la Nueva Granada. En 1855, 
+        Panamá, pasó a convertirse en Estado Federal de Panamá, 
+        constituido por las provincias de Panamá, Azuero, Veraguas y Chiriquí.
+         A través de la Ley de 12 de septiembre de 1855, se instauró el departamento 
+         de Los Santos.
+
+      </p>
+    </div>
+      ');
+        
+        print('<a href="./historia.php" class="btn btn-primary">volver</a>');
         break;
       
       default:
         print('
         
         <div class="card col-sm-12 col-md-3" style="width: 18rem;">
-        <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+        <img class="card-img-top" height="150px" src="./public/images/cimarron3.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+            <h5 class="card-title">Época precolombina</h5>
+            <p class="card-text">
+             En esta región se encuentran los asentamientos
+             humanos más antiguos del istmo de Panamá. A la llegada de los europeos,
+            la región era regida por...
+            </p>
             <a href="./historia.php?id=1" class="btn btn-primary">ver mas</a>
           </div>
         </div>
 
         <div class="card col-sm-12 col-md-3" style="width: 18rem;">
-        <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+        <img class="card-img-top" height="150px" src=".../100px180/" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+            <h5 class="card-title">Época colonial</h5>
+            <p class="card-text">
+            Gaspar de Espinosa, conquistador español
+            Los primeros europeos en explorar la región fueron los españoles.
+             En 1516 Pedrarias Dávila...
+            </p>
             <a href="./historia.php?id=2" class="btn btn-primary">ver mas</a>
           </div>
         </div>
 
         <div class="card col-sm-12 col-md-3" style="width: 18rem;">
-        <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+        <img class="card-img-top" height="150px" src=".../100px180/" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+            <h5 class="card-title">Época Republicana</h5>
+            <p class="card-text">
+            Con la separación de Panamá de Colombia en 1903, la nueva república quedó 
+            constituida por las provincias de Bocas del Toro, Coclé, Colón, ...
+            </p>
             <a href="./historia.php?id=3" class="btn btn-primary">ver mas</a>
           </div>
         </div>
 
         <div class="card col-sm-12 col-md-3" style="width: 18rem;">
-        <img class="card-img-top" src=".../100px180/" alt="Card image cap">
+        <img class="card-img-top" height="150px" src=".../100px180/" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+            <h5 class="card-title">Independencia</h5>
+            <p class="card-text">En 1821, la Villa de Los Santos se distinguió 
+            por sus esfuerzos a favor de la independencia de Panamá de España..
+            </p>
             <a href="./historia.php?id=4" class="btn btn-primary">ver mas</a>
           </div>
         </div>
@@ -206,6 +234,9 @@
         ');
         break;
     }
+
+
+
 
  }
 ?>
