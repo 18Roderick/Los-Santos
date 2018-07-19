@@ -74,24 +74,42 @@
 
             <div class="col-md-6">
               <p class="texto">
-                <b>Procedimiento</b>
-                <br>
-                Lavamos los nances y separamos la pulpa de la semilla y la piel del nance. Esto puede hacerse a mano, vaciando la botella en un colador y añadiendo una taza de agua. Con las manos exprimimos los frutos para que pase la mayor cantidad de pulpa, luego añadimos un poco más de agua y volvemos a pasarla para aprovecharla al máximo. También puede hacerse echando los nances y el agua en una batidora y dándole un par de pulsaciones cortas para separar la pulpa sin romper las semillas y luego lo colamos, añadiendo más agua si hiciera falta.
+                <b>Procedimiento</b>              
 
-El jugo resultante es muy concentrado, ahora podemos probarlo para decidir si necesitaremos más o menos azúcar.
-
-Añadimos otra taza de agua y disolvemos en este jugo la harina o maicena y removemos para que no queden grumos (si queda alguno rebelde por allí, volvemos a colar). Lo llevamos al fuego y removemos hasta que espese, entonces añadimos poco a poco el azúcar, una taza más de agua, la sal y la canela al gusto.
-
-Seguimos cocinando a fuego lento, removiendo con frecuencia para que no se pegue hasta que alcance una textura similar a las natillas, unos 20 minutos.
-
-Servimos en cuencos o copas individuales con un poco de queso blanco molido por encima.
-
-La pesada de nance se puede tomar caliente o fría.
-
-¡Que aproveche!
-              <br>
-               <b> !Que aproveche</b>
+               
               </p>
+                <ol>
+                  <li>
+                  Lavamos los nances y separamos la pulpa de la semilla y la piel del nance. 
+                  </li>
+                  <li>
+                  Con las manos exprimimos los frutos para que pase la mayor cantidad de 
+                  pulpa, luego añadimos un poco más de agua y volvemos a pasarla para 
+                  aprovecharla al máximo. 
+                  </li>
+                  <li>
+                  El jugo resultante es muy concentrado, probar para decidir si necesitaremos 
+                  más o menos azúcar.
+                  </li>
+                  <li>
+                  Añadir otra taza de agua, disolver en este jugo la harina o maicena y revolvemos
+                  para que no queden 
+                  </li>
+                  <li>
+                  Poner al fuego y revolver hasta que espese, añadir poco a poco el azúcar, una 
+                  taza más de agua, la sal y la canela al gusto.
+                  </li>
+                  <li>
+                  Seguir cocinando a fuego lento, revolviendo con frecuencia para que no se pegue 
+                  hasta que alcance una textura similar a las natillas, unos 20 minutos.
+                  </li>
+                  <li>
+                  Servimos en cuencos o copas individuales con un poco de queso blanco molido por encima.
+                  La pesada de nance se puede tomar caliente o fría.
+                  </li>
+
+                </ol>
+              <p> <b> !Que aproveche</b> </p>
             </div>
           
           </div>
